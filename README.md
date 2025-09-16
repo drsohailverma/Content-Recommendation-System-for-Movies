@@ -54,7 +54,4 @@ Note: in Colab, these files live in session storage and are temporary. A runtime
 - **Module not found**: if a dependency error appears when running locally, install the missing package and rerun the notebook.
 
 ## Acknowledgments
-Data source: TMDB 5000 Movies dataset. Please review the dataset license and terms of use before redistribution.
-
-## License
-Add your preferred license here or keep the repository private if you do not plan to license it.
+Data source: TMDB 5000 Movies dataset.
