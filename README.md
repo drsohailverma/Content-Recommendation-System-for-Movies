@@ -1,4 +1,4 @@
-# Content Recommendation System for Movies using Item Similarity (Content Based)
+# Movie Recommendation System (Content Based)
 
 This repository contains a Google Colab notebook that builds a simple content based movie recommendation system using the TMDB 5000 Movies dataset. It computes similarity between movies from their metadata and returns titles that are most similar to the selected movie.
 
@@ -55,3 +55,4 @@ Note: in Colab, these files live in session storage and are temporary. A runtime
 
 ## Acknowledgments
 Data source: TMDB 5000 Movies dataset.
+
